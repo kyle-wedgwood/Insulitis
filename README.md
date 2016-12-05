@@ -1,4 +1,4 @@
-## Description
+# Description
 
 These Matlab files are simulate the agent-based model as described in
 ``Spatio-temporal modelling of human type 1 diabetes," Kyle C. A.
@@ -16,23 +16,23 @@ model-based parameters can be set in this file. Note that spatial
 parameters have been scaled by a factor of 4 to increase code speed.
 
 ## Files
-Driver.m - Run the full code. Also contains model parameter settings.
+<b> Driver.m </b> - Run the full code. Also contains model parameter settings.
 
 <b> IBM.m </b>    - Main function file defining the full SDE model for cell
 movement and interactions.
 
-modelForcesAllCellTypesFaster.m - Function file defining forces on
+<b> modelForcesAllCellTypesFaster.m </b> - Function file defining forces on
 immune cells arising from each other, the islet membrane and the beta
 cells.
 
-modelForcesBetaCells.m - Function file defining forces on beta cells
+<b> modelForcesBetaCells.m </b> - Function file defining forces on beta cells
 during initial placement (before full agent-based model starts)
 
-plot*.m - Contains plotting routines to generate frames.
+<b> plot*.m </b> - Contains plotting routines to generate frames.
 
-plotResults.m - Script to plot figures as in paper.
+<b> plotResults.m </b> - Script to plot figures as in paper.
 
-plotIBMTimeCourse.m - Script to produce immune cell invasion profiles as in
+<b> plotIBMTimeCourse.m </b> - Script to produce immune cell invasion profiles as in
 paper.
 
 ## Output
