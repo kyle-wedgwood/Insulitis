@@ -17,7 +17,8 @@ parameters have been scaled by a factor of 4 to increase code speed.
 
 ## Files
 Driver.m - Run the full code. Also contains model parameter settings.
-IBM.m    - Main function file defining the full SDE model for cell
+
+<b> IBM.m </b>    - Main function file defining the full SDE model for cell
 movement and interactions.
 
 modelForcesAllCellTypesFaster.m - Function file defining forces on
