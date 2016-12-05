@@ -1,9 +1,9 @@
 ## Description
 
 These Matlab files are simulate the agent-based model as described in
-``Spatio-temporal modelling of human type 1 diabetes," Kyle C. A.
+"Spatio-temporal modelling of human type 1 diabetes," Kyle C. A.
 Wedgwood, Sarah J. Richardson, Noel G. Morgan and Krasimira
-Tsaneva-Atanasova, <i> Frontiers in Physiology </i>, 2017.
+Tsaneva-Atanasova, <i> Frontiers in Physiology</i>, 2017.
 
 ## Platform
 The code has been developed for Matlab R2014b and tested on Matlab
