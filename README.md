@@ -1,4 +1,4 @@
-# Description
+## Description
 
 These Matlab files are simulate the agent-based model as described in
 ``Spatio-temporal modelling of human type 1 diabetes," Kyle C. A.
@@ -26,7 +26,7 @@ immune cells arising from each other, the islet membrane and the beta
 cells.
 
 <b> modelForcesBetaCells.m </b> - Function file defining forces on beta cells
-during initial placement (before full agent-based model starts)
+during initial placement (before full agent-based model starts).
 
 <b> plot*.m </b> - Contains plotting routines to generate frames.
 
