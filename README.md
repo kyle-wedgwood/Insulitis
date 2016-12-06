@@ -42,7 +42,7 @@ contains frames of the simulation at specific time points (this can be
 adjusted in the parameters structure also).
 
 Frames can be put together into an animation using freely available
-software (e.g. <i> ffmpeg </i>.
+software (e.g. <i> ffmpeg </i>).
 
 ## Distribution
 This code is distributed under the GNU General Licence V3.0. Users are
